@@ -9,7 +9,6 @@ ls
 cd /bin
 ls
 #ver contenido del archivo
-cat ls
 file ls
 # punto  es directorio actual
 # dos puntos es directorio padre
